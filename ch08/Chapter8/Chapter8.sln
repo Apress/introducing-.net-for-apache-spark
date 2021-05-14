@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing8-1", "Listing8-1\Listing8-1.csproj", "{8B8E4D1D-0699-415B-AE8B-3734A1DAFCEB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Listing8-2", "Listing8-2\Listing8-2.fsproj", "{ADC9A89E-7029-4C90-925E-2546ED66CCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8E4D1D-0699-415B-AE8B-3734A1DAFCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8E4D1D-0699-415B-AE8B-3734A1DAFCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8E4D1D-0699-415B-AE8B-3734A1DAFCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8E4D1D-0699-415B-AE8B-3734A1DAFCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC9A89E-7029-4C90-925E-2546ED66CCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC9A89E-7029-4C90-925E-2546ED66CCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC9A89E-7029-4C90-925E-2546ED66CCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC9A89E-7029-4C90-925E-2546ED66CCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
